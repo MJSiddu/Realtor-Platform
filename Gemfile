@@ -10,7 +10,7 @@ gem 'devise'
 gem 'rails', '~> 5.2.1'
 # Use sqlite3 as the database for Active Record
 
-gem 'carrierwave', '~> 1.0'
+gem 'carrierwave', '~> 1.3'
 group :development, :test do
   gem 'sqlite3'
 end
